@@ -15,7 +15,7 @@
 ├── style.css         # All styles (mobile-first, responsive)
 ├── script.js         # Navbar, animations, counter, smooth scroll
 ├── images/           # Logo and image assets
-│   ├── Jiban Alo Logo-V1.png     ← Organization logo (About section)
+│   ├── Jibon Alo Logo-V1.png     ← Organization logo (About section)
 │   └── website logo-v1.png       ← Navbar & favicon logo
 └── README.md         # This file
 ```
