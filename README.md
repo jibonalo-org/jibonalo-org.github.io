@@ -1,4 +1,4 @@
-# জীবন আলো শেবা সংগঠন — Website
+# জীবন আলো সেবা সংগঠন — Website
 
 **Jibon Alo Sheba Songothon** — Official static website for a non-political, non-profit voluntary organization based in Bonpara, Natore, Rajshahi, Bangladesh.
 
